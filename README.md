@@ -26,3 +26,15 @@ Sources
 
 - https://github.com/
 - https://mempool.space/testnet4/
+
+## Sources et outils
+
+- Explorateur blockchain : Mempool.space
+- Réseau utilisé : Bitcoin TestNet4
+- Outil d'analyse : GitHub
+- Assistance : ChatGPT pour la rédaction et la compréhension des notions.
+
+## Auteur
+
+Kinani Hafsa  
+Master FinTech – Blockchain
